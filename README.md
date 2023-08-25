@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayannavghane&label=Profile%20views&color=0e75b6&style=flat" alt="nayannavghane" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>"https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
 <p align="left">
 <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
 
