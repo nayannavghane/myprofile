@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayannavghane&label=Profile%20views&color=0e75b6&style=flat" alt="nayannavghane" /> </p>
 
-- 🌱 I’m currently learning **AWS Cloud, Linux, GitHub, Docker, Python, Terraform**
+- 🌱 I’m currently learning **AWS Cloud, Linux, GitHub, Docker, Python, Terraform, jekins, kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
